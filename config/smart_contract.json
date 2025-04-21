@@ -1,0 +1,23 @@
+{
+  "fields": [
+    {
+      "metadata": {},
+      "name": "id",
+      "nullable": false,
+      "type": "integer"
+    },
+    {
+      "metadata": {},
+      "name": "name",
+      "nullable": true,
+      "type": "string"
+    },
+    {
+      "metadata": {},
+      "name": "age",
+      "nullable": true,
+      "type": "integer"
+    }
+  ],
+  "type": "struct"
+}
